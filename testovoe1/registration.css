@@ -101,10 +101,11 @@
   .background-reg {
     background-image: url("images/reg-img320px.svg");
     background-repeat: no-repeat;
-    background-position: right top 85%;
+    background-position: right top 82%;
   }
   .list-reg p {
     margin-left: 12px;
     margin-bottom: 20px;
+    max-width: 166px;
   }
 }
